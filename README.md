@@ -35,9 +35,8 @@ print("Swapped values are:",a,b)
 ```
 
 ## OUTPUT:
-![Screenshot 2024-03-07 224221](https://github.com/durgadevi22d/Swapping-two-values/assets/149987216/b922dc86-e1b2-4d6b-b641-0d67d4ccffac)
+![Screenshot 2024-03-09 092527](https://github.com/durgadevi22d/Swapping-two-values/assets/149987216/fe2a6c53-a5be-4ad1-9d14-81f91fbd2fc4)
 
-![Screenshot 2024-03-07 224315](https://github.com/durgadevi22d/Swapping-two-values/assets/149987216/004286fa-c5c3-4aad-b80d-478d85292f05)
 
 
 ## RESULT:
