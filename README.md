@@ -22,20 +22,10 @@ End the program
 
 
 ## PROGRAM:
-```
-# Program to swap two values.
-# Developed by: DURGADEVI P
-# RegisterNumber: 23013286
-a=int(input())
-b=int(input())
-c=a
-a=b
-b=c
-print("Swapped values are:",a,b)
-```
+
 
 ## OUTPUT:
-![Screenshot 2024-03-09 092527](https://github.com/durgadevi22d/Swapping-two-values/assets/149987216/fe2a6c53-a5be-4ad1-9d14-81f91fbd2fc4)
+
 
 
 
